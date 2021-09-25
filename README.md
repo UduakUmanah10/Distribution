@@ -1,6 +1,6 @@
 #binomial package
 
-summary of package
+summary of package hhhhkgigtkhoi
 
 #files
 
