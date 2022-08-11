@@ -15,4 +15,4 @@ stdev (float) representing the standard deviation of the distribution
 data_list (list of floats) a list of floats extracted from the data file
 
 #Installation  
-pip install uduak-distributions==0.3
+pip install uduak-distributions==0.3....
